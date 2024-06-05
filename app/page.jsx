@@ -1,6 +1,6 @@
 const Homepage = () => {
   return (
-    <div>Urban Blooms</div>
+    <div>Urban Blooms by daylink</div>
   )
 }
 
